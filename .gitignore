@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Dev-C++ project and temporary files
+*.layout
+*.win
+*.~*
+Makefile.win
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
